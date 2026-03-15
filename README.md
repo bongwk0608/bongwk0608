@@ -69,6 +69,8 @@ I also did some songwriting during my degree and performed in a live band.
 
 ## 📷 Something That Represents Me
 
+![Playing Guitar](wk_guitar.jpg)
+
 Besides technology, I enjoy playing **fingerstyle guitar** and arranging music.
 
 During my undergraduate years at **Universiti Sains Malaysia Engineering Campus**, I arranged a fingerstyle cover of **“Reinvigorate (重新出发)”**, a song written by my university friends **Lim Wei Liang** and **Ng Tarng Wing** from the LitleGras Music Club.
