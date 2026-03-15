@@ -52,11 +52,11 @@ Currently exploring technologies such as:
 
 ## 📚 Expectations for This Course
 
-Through the Software Maintenance and Evolution course, I hope to:
+Through the **Framework-Based Software Design and Development** course, I hope to:
 
-- Understand how real-world software systems evolve
-- Learn modern practices for maintaining and improving software
-- Gain experience working with software repositories and collaborative development
+- Understand how modern software frameworks support scalable application development
+- Learn best practices for designing and implementing framework-based systems
+- Gain hands-on experience working with real-world software development tools and repositories
 
 ---
 
